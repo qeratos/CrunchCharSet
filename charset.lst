@@ -1,0 +1,8 @@
+numeric                       = [0123456789]
+numeric-space                 = [0123456789 ]
+
+symbols-all                   = [!@#$%^&*()-_+=~`[]{}|\:;"'<>,.?/]
+symbols-all-space             = [!@#$%^&*()-_+=~`[]{}|\:;"'<>,.?/ ]
+
+hex-lower                     = [0123456789abcdef]
+hex-upper                     = [0123456789ABCDEF]
